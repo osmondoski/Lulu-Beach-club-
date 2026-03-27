@@ -1,0 +1,184 @@
+{
+  "brand": {
+    "name": "Lulu Beach Club",
+    "location": "Five Cowries, Falomo, Ikoyi, Lagos (Formerly W Bar)",
+    "status": "Live from Five Cowries",
+    "colors": {
+      "gold": "#D4AF37",
+      "blue": "#0077BE",
+      "sand": "#F5F5DC",
+      "white": "#FFFFFF"
+    }
+  },
+  "hero": {
+    "image": "https://i.postimg.cc/dt069kD7/1774582823554.jpg",
+    "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-waves-coming-to-the-shore-4113-large.mp4",
+    "title": "Mediterranean Minimalist Meets Lagos Energy",
+    "subtitle": "The ultimate beach club experience in the heart of Lagos.",
+    "cta": "Reserve a Cabana"
+  },
+  "menu": {
+    "categories": ["Brunch", "Main", "Cocktails", "Bottle Service"],
+    "items": [
+      {
+        "id": 1,
+        "category": "Main",
+        "name": "Lulu Signature Platter",
+        "description": "A grand selection of Mediterranean grilled meats, seafood, and mezze. Perfect for sharing.",
+        "price": 85000,
+        "badges": ["Chef's Choice"],
+        "image": "https://i.postimg.cc/cHmjrp5C/1774582857185.jpg"
+      },
+      {
+        "id": 2,
+        "category": "Brunch",
+        "name": "Dirty Passion",
+        "description": "Fresh tropical fruits, Greek yogurt, honey, and house-made granola.",
+        "price": 18000,
+        "badges": ["Healthy"],
+        "image": "https://i.postimg.cc/nLMYv6zs/Screenshot-20260327-051536.jpg"
+      },
+      {
+        "id": 3,
+        "category": "Main",
+        "name": "Spicy Prawn Linguine",
+        "description": "Lagos-spiced prawns, garlic, chili, and fresh parsley in a light lemon butter sauce.",
+        "price": 24000,
+        "badges": ["Spicy"],
+        "image": "https://i.postimg.cc/MpfrwM7f/Screenshot-20260327-054303.jpg"
+      },
+      {
+        "id": 4,
+        "category": "Cocktails",
+        "name": "The Lulu Martini",
+        "description": "Our signature blend of premium gin, elderflower, and a hint of Lagos citrus.",
+        "price": 9500,
+        "badges": [],
+        "image": "https://i.postimg.cc/6qZvHKJN/Screenshot-20260327-043509.jpg"
+      },
+      {
+        "id": 5,
+        "category": "Main",
+        "name": "Deluxe Steak",
+        "description": "Premium cut of aged beef, grilled to perfection and served with a choice of signature sauces.",
+        "price": 32000,
+        "badges": ["Premium"],
+        "image": "https://i.postimg.cc/Lsb1n9Zj/Screenshot-20260327-041131.jpg"
+      }
+    ]
+  },
+  "moments": {
+    "filters": ["All", "Vibes", "Parties", "Dining", "Live"],
+    "videos": [
+      {
+        "id": 1,
+        "title": "Golden Hour Saxophone",
+        "category": "Live",
+        "thumbnail": "https://i.postimg.cc/6qZvHKJN/Screenshot-20260327-043509.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      },
+      {
+        "id": 2,
+        "title": "Lulu Moments Selfie",
+        "category": "Vibes",
+        "thumbnail": "https://i.postimg.cc/nzJbsYFB/1774582875213.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      },
+      {
+        "id": 3,
+        "title": "Lagos Energy Dancing",
+        "category": "Parties",
+        "thumbnail": "https://i.postimg.cc/3N3Tqjzx/1774582943852.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      },
+      {
+        "id": 4,
+        "title": "Mediterranean Feast",
+        "category": "Dining",
+        "thumbnail": "https://i.postimg.cc/cHmjrp5C/1774582857185.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      },
+      {
+        "id": 5,
+        "title": "The Iconic Lulu Swing",
+        "category": "Vibes",
+        "thumbnail": "https://i.postimg.cc/pXg0XVX5/1774582749576.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      },
+      {
+        "id": 6,
+        "title": "Live with celebrities",
+        "category": "Live",
+        "thumbnail": "https://i.postimg.cc/VsHwgtDd/1774582691785.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      },
+      {
+        "id": 7,
+        "title": "Vibe with DJ",
+        "category": "Live",
+        "thumbnail": "https://i.postimg.cc/jjrtNrvM/1774582728417.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      },
+      {
+        "id": 8,
+        "title": "Cheers",
+        "category": "Parties",
+        "thumbnail": "https://i.postimg.cc/YSqk8xKc/1774582919062.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      },
+      {
+        "id": 9,
+        "title": "Chef buffet",
+        "category": "Live",
+        "thumbnail": "https://i.postimg.cc/MpfrwM7f/Screenshot-20260327-054303.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      },
+      {
+        "id": 10,
+        "title": "Saxophonist",
+        "category": "Live",
+        "thumbnail": "https://i.postimg.cc/ncC3KjPx/Screenshot-20260327-054505.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      }
+    ]
+  },
+  "reservations": {
+    "disclaimer": "Minimum spend of ₦50,000 applies for cabana bookings on weekends.",
+    "options": {
+      "times": ["12:00 PM", "02:00 PM", "04:00 PM", "06:00 PM", "08:00 PM"],
+      "guests": ["1-2", "3-4", "5-8", "9+"]
+    }
+  },
+  "privateEvents": {
+    "title": "Exclusive Celebrations",
+    "subtitle": "Host your most memorable moments at Lulu.",
+    "description": "From intimate birthday dinners to grand corporate launches, our waterfront venue provides the perfect backdrop for any occasion.",
+    "features": [
+      "Customized Mediterranean Menus",
+      "Dedicated Event Coordinator",
+      "Premium Sound & Lighting",
+      "Waterfront Views"
+    ],
+    "image": "https://i.postimg.cc/VsHwgtDd/1774582691785.jpg"
+  },
+  "membership": {
+    "title": "The Lulu Circle",
+    "subtitle": "Elevate your beach club experience.",
+    "description": "Join an exclusive community of Lagos' finest. Enjoy priority bookings, member-only events, and personalized service.",
+    "benefits": [
+      "Priority Cabana Bookings",
+      "Complimentary Valet Parking",
+      "Access to Member-Only Sunsets",
+      "10% Discount on Bottle Service"
+    ],
+    "cta": "Apply for Membership",
+    "image": "https://i.postimg.cc/nzJbsYFB/1774582875213.jpg"
+  },
+  "footer": {
+    "instagram": "lulubeachlagos",
+    "instagramUrl": "https://www.instagram.com/lulubeachlagos?igsh=MXVpZmhqa2dic3JnMg==",
+    "address": "Five Cowries, Falomo, Ikoyi, Lagos (Formerly W Bar)",
+    "phone": "+234 800 LULU CLUB",
+    "email": "hello@lulubeachclub.com"
+  }
+}
