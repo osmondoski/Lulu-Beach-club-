@@ -12,7 +12,7 @@ export default function Footer() {
               LULU <span className="text-lulu-dark italic">BEACH</span>
             </h2>
             <p className="text-lulu-dark/60 font-light leading-relaxed text-lg">
-              Mediterranean Minimalist meets Lagos Energy. The premier beach club destination at Landmark Village.
+              {content.about.description}
             </p>
             <div className="flex space-x-8">
               <a href={content.footer.instagramUrl} target="_blank" rel="noopener noreferrer" className="text-lulu-dark/40 hover:text-lulu-brass transition-all hover:scale-110">

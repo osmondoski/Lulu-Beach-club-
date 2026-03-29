@@ -123,7 +123,7 @@ export default function Navbar() {
                   <a href={content.footer.instagramUrl} target="_blank" rel="noopener noreferrer" className="text-lulu-dark hover:text-lulu-gold transition-colors">
                     <Instagram size={20} />
                   </a>
-                  <a href="https://maps.google.com/?q=Five+Cowries+Falomo+Ikoyi+Lagos" target="_blank" rel="noopener noreferrer" className="text-lulu-dark hover:text-lulu-gold transition-colors">
+                  <a href="https://maps.google.com/?q=Falomo+jetty+Five+cowries+terminal+Ikoyi+Lagos" target="_blank" rel="noopener noreferrer" className="text-lulu-dark hover:text-lulu-gold transition-colors">
                     <MapPin size={20} />
                   </a>
                 </div>

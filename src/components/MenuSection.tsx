@@ -70,11 +70,12 @@ export default function MenuSection() {
                       <img 
                         src={item.image} 
                         alt={item.name} 
-                        className="w-full h-full object-cover transition-transform group-hover/img:scale-110"
+                        className="w-full h-full object-cover transition-transform duration-500 group-hover/img:scale-105"
                         referrerPolicy="no-referrer"
                       />
-                      <div className="absolute inset-0 bg-black/20 opacity-0 group-hover/img:opacity-100 transition-opacity flex items-center justify-center">
-                        <Maximize2 className="text-white" size={20} />
+                      <div className="absolute inset-0 bg-lulu-dark/40 opacity-0 group-hover/img:opacity-100 transition-all duration-300 flex flex-col items-center justify-center gap-2">
+                        <Maximize2 className="text-white" size={24} />
+                        <span className="text-[8px] text-white uppercase tracking-[0.2em] font-bold">Click to zoom</span>
                       </div>
                     </div>
                   )}

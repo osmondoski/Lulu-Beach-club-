@@ -18,7 +18,7 @@ export default function MapSection() {
               Find Us in the <span className="italic">Heart of Lagos</span>
             </h3>
             <p className="text-lulu-dark/70 text-lg font-light leading-relaxed mb-10 max-w-xl">
-              Located at the prestigious Five Cowries waterfront in Falomo, Ikoyi. Lulu Beach Club offers the perfect escape from the city's bustle without leaving its heart.
+              Located at the prestigious Falomo jetty Five cowries terminal in Ikoyi. Lulu Beach Club offers the perfect escape from the city's bustle without leaving its heart.
             </p>
             
             <div className="space-y-8 mb-12">
@@ -44,7 +44,7 @@ export default function MapSection() {
             </div>
 
             <a 
-              href="https://maps.google.com/?q=Five+Cowries+Falomo+Ikoyi+Lagos"
+              href="https://maps.google.com/?q=Falomo+jetty+Five+cowries+terminal+Ikoyi+Lagos"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-4 bg-lulu-dark text-white px-10 py-4 rounded-full text-[10px] uppercase tracking-[0.3em] font-bold hover:bg-lulu-brass transition-colors group"
@@ -72,7 +72,7 @@ export default function MapSection() {
               <div className="relative z-10 text-center p-10">
                 <MapPin className="text-lulu-brass mx-auto mb-6" size={48} />
                 <p className="text-lulu-dark/40 font-serif italic text-xl">Interactive Map Coming Soon</p>
-                <p className="text-lulu-dark/20 text-sm mt-4 uppercase tracking-widest">Five Cowries, Falomo, Ikoyi</p>
+                <p className="text-lulu-dark/20 text-sm mt-4 uppercase tracking-widest">Falomo jetty, Five cowries terminal, Ikoyi</p>
               </div>
               
               {/* Stylized Map Overlay */}

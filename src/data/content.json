@@ -1,7 +1,7 @@
 {
   "brand": {
     "name": "Lulu Beach Club",
-    "location": "Five Cowries, Falomo, Ikoyi, Lagos (Formerly W Bar)",
+    "location": "Ikoyi, Lagos | Falomo jetty Five cowries terminal",
     "status": "Live from Five Cowries",
     "colors": {
       "gold": "#D4AF37",
@@ -10,19 +10,23 @@
       "white": "#FFFFFF"
     }
   },
+  "about": {
+    "title": "About Lulu",
+    "description": "A new nightlife experience in the heart of Lagos."
+  },
   "hero": {
     "image": "https://i.postimg.cc/dt069kD7/1774582823554.jpg",
     "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-waves-coming-to-the-shore-4113-large.mp4",
     "title": "Mediterranean Minimalist Meets Lagos Energy",
-    "subtitle": "The ultimate beach club experience in the heart of Lagos.",
+    "subtitle": "A new nightlife experience in the heart of Lagos.",
     "cta": "Reserve a Cabana"
   },
   "menu": {
-    "categories": ["Brunch", "Main", "Cocktails", "Bottle Service"],
+    "categories": ["Brunch", "Main Course", "Boards", "Sides", "Desserts", "Vapes", "Shisha Coal", "Shisha Electric", "CIGAR", "Signature Cocktails", "Spritz Cocktails", "Whisky", "Gin", "Vodka", "Rum", "Bottle Service"],
     "items": [
       {
         "id": 1,
-        "category": "Main",
+        "category": "Main Course",
         "name": "Lulu Signature Platter",
         "description": "A grand selection of Mediterranean grilled meats, seafood, and mezze. Perfect for sharing.",
         "price": 85000,
@@ -40,30 +44,678 @@
       },
       {
         "id": 3,
-        "category": "Main",
-        "name": "Spicy Prawn Linguine",
-        "description": "Lagos-spiced prawns, garlic, chili, and fresh parsley in a light lemon butter sauce.",
-        "price": 24000,
+        "category": "Main Course",
+        "name": "Seafood Penne Pasta",
+        "description": "Penne pasta sautéed with shrimp and calamari in a spicy pink sauce.",
+        "price": 26000,
         "badges": ["Spicy"],
-        "image": "https://i.postimg.cc/MpfrwM7f/Screenshot-20260327-054303.jpg"
+        "image": "https://picsum.photos/seed/pasta/800/600"
       },
       {
         "id": 4,
-        "category": "Cocktails",
-        "name": "The Lulu Martini",
-        "description": "Our signature blend of premium gin, elderflower, and a hint of Lagos citrus.",
-        "price": 9500,
+        "category": "Main Course",
+        "name": "Stuffed Chicken Breast",
+        "description": "Chicken breast stuffed with a colorful roasted mix of bell peppers and mozzarella cheese, infused with thyme and oregano.",
+        "price": 28000,
         "badges": [],
-        "image": "https://i.postimg.cc/6qZvHKJN/Screenshot-20260327-043509.jpg"
+        "image": "https://picsum.photos/seed/chicken/800/600"
       },
       {
         "id": 5,
-        "category": "Main",
-        "name": "Deluxe Steak",
-        "description": "Premium cut of aged beef, grilled to perfection and served with a choice of signature sauces.",
-        "price": 32000,
+        "category": "Main Course",
+        "name": "Ocean Fusion 🍤",
+        "description": "A symphony of seafood—prawns and salmon—served in a creamy white-wine butter sauce infused with herbs, accompanied by rice and shrimp on the side.",
+        "price": 45000,
+        "badges": ["Signature"],
+        "image": "https://picsum.photos/seed/seafood/800/600"
+      },
+      {
+        "id": 6,
+        "category": "Main Course",
+        "name": "Ribeye Steak",
+        "description": "Prime ribeye steak served with crunchy fries and herb-infused mushroom sauce.",
+        "price": 52000,
         "badges": ["Premium"],
-        "image": "https://i.postimg.cc/Lsb1n9Zj/Screenshot-20260327-041131.jpg"
+        "image": "https://picsum.photos/seed/ribeye/800/600"
+      },
+      {
+        "id": 7,
+        "category": "Main Course",
+        "name": "Croaker Fish 🌶️",
+        "description": "Grilled fish served with a vibrant mix of bell peppers and rich spicy tomato sauce.",
+        "price": 40000,
+        "badges": ["Spicy"],
+        "image": "https://picsum.photos/seed/fish/800/600"
+      },
+      {
+        "id": 8,
+        "category": "Boards",
+        "name": "Beef Board",
+        "description": "T-bone steak, beef suya skewers & lamb chop.",
+        "price": 95000,
+        "badges": ["Sharing"],
+        "image": "https://i.postimg.cc/XJKXYkwg/1774784120927.jpg"
+      },
+      {
+        "id": 9,
+        "category": "Boards",
+        "name": "Chicken Board",
+        "description": "Chicken drumsticks, chicken suya & wings.",
+        "price": 70000,
+        "badges": ["Popular"],
+        "image": "https://picsum.photos/seed/chickenboard/800/600"
+      },
+      {
+        "id": 10,
+        "category": "Boards",
+        "name": "Seafood Board 🌶️",
+        "description": "Mussels, jumbo shrimp, calamari, and fish.",
+        "price": 105000,
+        "badges": ["Spicy"],
+        "image": "https://i.postimg.cc/qB1PnCB5/1774781720150.jpg"
+      },
+      {
+        "id": 11,
+        "category": "Boards",
+        "name": "Shawarma Board 🌶️",
+        "description": "Chicken, beef, and shrimp shawarma.",
+        "price": 60000,
+        "badges": ["Spicy"],
+        "image": "https://i.postimg.cc/25rSXZpW/1774783813590.jpg"
+      },
+      {
+        "id": 12,
+        "category": "Boards",
+        "name": "Royal Medley",
+        "description": "Mixed board featuring beef suya skewers, T-bone steak, chicken drumsticks, chicken wings, calamari, and grilled jumbo prawns.",
+        "price": 135000,
+        "badges": ["Grand"],
+        "image": "https://i.postimg.cc/1zMHTwdf/1774781746372.jpg"
+      },
+      {
+        "id": 13,
+        "category": "Sides",
+        "name": "Coconut Rice",
+        "description": "Fragrant rice cooked with fresh coconut milk.",
+        "price": 5000,
+        "badges": [],
+        "image": "https://picsum.photos/seed/coconutrice/800/600"
+      },
+      {
+        "id": 14,
+        "category": "Sides",
+        "name": "Fried Rice 🌶️",
+        "description": "Classic stir-fried rice with vegetables.",
+        "price": 5000,
+        "badges": ["Spicy"],
+        "image": "https://picsum.photos/seed/friedrice/800/600"
+      },
+      {
+        "id": 15,
+        "category": "Sides",
+        "name": "Jollof Rice 🌶️",
+        "description": "The legendary West African spiced tomato rice.",
+        "price": 5000,
+        "badges": ["Spicy"],
+        "image": "https://picsum.photos/seed/jollof/800/600"
+      },
+      {
+        "id": 16,
+        "category": "Sides",
+        "name": "Fries",
+        "description": "Crispy golden potato fries.",
+        "price": 5000,
+        "badges": [],
+        "image": "https://picsum.photos/seed/fries/800/600"
+      },
+      {
+        "id": 17,
+        "category": "Sides",
+        "name": "Mashed Potatoes",
+        "description": "Creamy whipped potatoes with butter.",
+        "price": 5000,
+        "badges": [],
+        "image": "https://picsum.photos/seed/mashed/800/600"
+      },
+      {
+        "id": 18,
+        "category": "Sides",
+        "name": "Sweet Potatoes",
+        "description": "Roasted or fried sweet potato chunks.",
+        "price": 5000,
+        "badges": [],
+        "image": "https://picsum.photos/seed/sweetpotato/800/600"
+      },
+      {
+        "id": 19,
+        "category": "Sides",
+        "name": "Fried Yam",
+        "description": "Traditional fried yam slices.",
+        "price": 5000,
+        "badges": [],
+        "image": "https://picsum.photos/seed/friedyam/800/600"
+      },
+      {
+        "id": 20,
+        "category": "Sides",
+        "name": "Plantain",
+        "description": "Sweet fried ripe plantain (Dodo).",
+        "price": 5000,
+        "badges": [],
+        "image": "https://picsum.photos/seed/plantain/800/600"
+      },
+      {
+        "id": 21,
+        "category": "Desserts",
+        "name": "Chocolate Mousse Cake",
+        "description": "Rich, decadent chocolate layers.",
+        "price": 30000,
+        "badges": ["Sweet"],
+        "image": "https://picsum.photos/seed/chocolatecake/800/600"
+      },
+      {
+        "id": 22,
+        "category": "Desserts",
+        "name": "Strawberry Vacherin",
+        "description": "A classic French dessert with meringue and strawberries.",
+        "price": 20000,
+        "badges": ["Light"],
+        "image": "https://picsum.photos/seed/vacherin/800/600"
+      },
+      {
+        "id": 23,
+        "category": "Desserts",
+        "name": "Ice Cream",
+        "description": "Choice of Strawberry, Chocolate, or Vanilla.",
+        "price": 15000,
+        "badges": [],
+        "image": "https://picsum.photos/seed/icecream/800/600"
+      },
+      {
+        "id": 24,
+        "category": "Whisky",
+        "name": "CHIVAS XV",
+        "description": "Blended Scotch Whisky, aged for 15 years and finished in cognac casks.",
+        "price": 350000,
+        "badges": ["Blended"],
+        "image": "https://picsum.photos/seed/chivas15/800/600"
+      },
+      {
+        "id": 25,
+        "category": "Whisky",
+        "name": "CHIVAS 18Y",
+        "description": "Rich and multi-layered blended scotch whisky.",
+        "price": 400000,
+        "badges": ["Blended"],
+        "image": "https://picsum.photos/seed/chivas18/800/600"
+      },
+      {
+        "id": 26,
+        "category": "Whisky",
+        "name": "CHIVAS 25",
+        "description": "The world's first luxury whisky, a rare and exclusive blend.",
+        "price": 1300000,
+        "badges": ["Luxury"],
+        "image": "https://picsum.photos/seed/chivas25/800/600"
+      },
+      {
+        "id": 27,
+        "category": "Whisky",
+        "name": "CHIVAS ROYAL SALUTE",
+        "description": "A powerful, sophisticated and opulent blend.",
+        "price": 900000,
+        "badges": ["Premium"],
+        "image": "https://picsum.photos/seed/royalsalute/800/600"
+      },
+      {
+        "id": 28,
+        "category": "Whisky",
+        "name": "HIBIKI HARMONY",
+        "description": "A luminous and delicate blend of Japanese malt and grain whiskies.",
+        "price": 900000,
+        "badges": ["Japanese"],
+        "image": "https://picsum.photos/seed/hibiki/800/600"
+      },
+      {
+        "id": 29,
+        "category": "Whisky",
+        "name": "BLUE LABEL",
+        "description": "An exquisite blend made from some of Scotland's rarest whiskies.",
+        "price": 1200000,
+        "badges": ["Rare"],
+        "image": "https://picsum.photos/seed/bluelabel/800/600"
+      },
+      {
+        "id": 30,
+        "category": "Gin",
+        "name": "HENDRICK'S",
+        "description": "Distilled in Scotland with infusions of cucumber and rose petals.",
+        "price": 300000,
+        "badges": ["Premium"],
+        "image": "https://picsum.photos/seed/hendricks/800/600"
+      },
+      {
+        "id": 31,
+        "category": "Gin",
+        "name": "GIN MARE",
+        "description": "Mediterranean gin distilled with olives, thyme, rosemary and basil.",
+        "price": 300000,
+        "badges": ["Mediterranean"],
+        "image": "https://picsum.photos/seed/ginmare/800/600"
+      },
+      {
+        "id": 32,
+        "category": "Gin",
+        "name": "DRUMSHANBO",
+        "description": "Gunpowder Irish Gin, slow-distilled with oriental botanicals and gunpowder tea.",
+        "price": 300000,
+        "badges": ["Irish"],
+        "image": "https://picsum.photos/seed/drumshanbo/800/600"
+      },
+      {
+        "id": 33,
+        "category": "Gin",
+        "name": "TANQUERAY 10",
+        "description": "Distilled in small batches with whole citrus fruits.",
+        "price": 350000,
+        "badges": ["Classic"],
+        "image": "https://picsum.photos/seed/tanqueray/800/600"
+      },
+      {
+        "id": 34,
+        "category": "Vodka",
+        "name": "BELVEDERE",
+        "description": "The world's first super-premium vodka, made from Polish rye.",
+        "price": 300000,
+        "badges": ["Premium"],
+        "image": "https://picsum.photos/seed/belvedere/800/600"
+      },
+      {
+        "id": 35,
+        "category": "Vodka",
+        "name": "BELVEDERE 10",
+        "description": "An exceptionally rare vodka, crafted from a single harvest of organic Diamond Rye.",
+        "price": 650000,
+        "badges": ["Exclusive"],
+        "image": "https://picsum.photos/seed/belvedere10/800/600"
+      },
+      {
+        "id": 36,
+        "category": "Vodka",
+        "name": "BELUGA GOLD LINE",
+        "description": "A limited edition vodka for true connoisseurs.",
+        "price": 600000,
+        "badges": ["Limited"],
+        "image": "https://picsum.photos/seed/beluga/800/600"
+      },
+      {
+        "id": 37,
+        "category": "Rum",
+        "name": "DICTADOR",
+        "description": "Premium Colombian rum aged in a solera system.",
+        "price": 600000,
+        "badges": ["Aged"],
+        "image": "https://picsum.photos/seed/dictador/800/600"
+      },
+      {
+        "id": 38,
+        "category": "Rum",
+        "name": "EMINENTE",
+        "description": "A rich and full-bodied Cuban rum.",
+        "price": 250000,
+        "badges": ["Cuban"],
+        "image": "https://picsum.photos/seed/eminente/800/600"
+      },
+      {
+        "id": 66,
+        "category": "Signature Cocktails",
+        "name": "OUZO PEARL",
+        "description": "Gin, Skinos, Apple juice, Lemon juice, Cinnamon syrup",
+        "price": 14000,
+        "badges": ["Signature"],
+        "image": "https://picsum.photos/seed/cocktail1/800/600"
+      },
+      {
+        "id": 67,
+        "category": "Signature Cocktails",
+        "name": "FROZEN BREEZE",
+        "description": "Bourbon whiskey, Martini Rosato, Aperol, Orange bitters, Mulberry syrup",
+        "price": 14000,
+        "badges": ["Signature"],
+        "image": "https://picsum.photos/seed/cocktail2/800/600"
+      },
+      {
+        "id": 68,
+        "category": "Signature Cocktails",
+        "name": "TIFANNY'S KISS",
+        "description": "Rum, Bailey's, Blue Curaçao",
+        "price": 14000,
+        "badges": ["Signature"],
+        "image": "https://picsum.photos/seed/cocktail3/800/600"
+      },
+      {
+        "id": 69,
+        "category": "Signature Cocktails",
+        "name": "DETTY PASSION",
+        "description": "Gin, Spiced rum, Martini rosso, Honey , Passionfruit puree, Pineapple juice, Orange bitters",
+        "price": 14000,
+        "badges": ["Signature"],
+        "image": "https://picsum.photos/seed/cocktail4/800/600"
+      },
+      {
+        "id": 70,
+        "category": "Signature Cocktails",
+        "name": "JASMINE RUBY",
+        "description": "Vodka, T.Gold, Jasmine tea syrup, Foamer agent",
+        "price": 14000,
+        "badges": ["Signature"],
+        "image": "https://picsum.photos/seed/cocktail5/800/600"
+      },
+      {
+        "id": 71,
+        "category": "Signature Cocktails",
+        "name": "SON OF A BEACH CLUB",
+        "description": "Cognac, Cinnamon Syrup, Maple syrup, Orange bitters",
+        "price": 14000,
+        "badges": ["Signature"],
+        "image": "https://picsum.photos/seed/cocktail6/800/600"
+      },
+      {
+        "id": 72,
+        "category": "Signature Cocktails",
+        "name": "SWEET MELODY",
+        "description": "Tequila, Agave syrup, Tripple sec, Vanilla syrup, Lemon juice, Honey",
+        "price": 14000,
+        "badges": ["Signature"],
+        "image": "https://picsum.photos/seed/cocktail7/800/600"
+      },
+      {
+        "id": 73,
+        "category": "Spritz Cocktails",
+        "name": "BASIL SPRITZ",
+        "description": "Tequila, Prosseco, Basil Syrup, Soda",
+        "price": 14000,
+        "badges": ["Spritz"],
+        "image": "https://picsum.photos/seed/spritz1/800/600"
+      },
+      {
+        "id": 74,
+        "category": "Spritz Cocktails",
+        "name": "PINAPPLE PASSION SPRITZ",
+        "description": "Tequila, Prosseco, Passion fruit puree, La pina mix, Soda",
+        "price": 14000,
+        "badges": ["Spritz"],
+        "image": "https://picsum.photos/seed/spritz2/800/600"
+      },
+      {
+        "id": 75,
+        "category": "Spritz Cocktails",
+        "name": "WATERMELON ELDERFLOWER SPRITZ",
+        "description": "Tequila, Prosseco, Watermelon syrup, Elderflower syrup, Soda",
+        "price": 14000,
+        "badges": ["Spritz"],
+        "image": "https://picsum.photos/seed/spritz3/800/600"
+      },
+      {
+        "id": 76,
+        "category": "Spritz Cocktails",
+        "name": "STRAWBERRY & CRANBERRY SPRITZ",
+        "description": "Tequila, Prosseco, Strawberry syrup, Grenadine, Soda",
+        "price": 14000,
+        "badges": ["Spritz"],
+        "image": "https://picsum.photos/seed/spritz4/800/600"
+      },
+      {
+        "id": 77,
+        "category": "Spritz Cocktails",
+        "name": "MANGO PEACH SPRITZ",
+        "description": "Tequila, Prosseco, Mango syrup, Peach syrup",
+        "price": 14000,
+        "badges": ["Spritz"],
+        "image": "https://picsum.photos/seed/spritz5/800/600"
+      },
+      {
+        "id": 78,
+        "category": "Spritz Cocktails",
+        "name": "KIWI-PINEAPPLE SPRITZ",
+        "description": "Tequila, Prosseco, Kiwi pure, Pineapple juice",
+        "price": 14000,
+        "badges": ["Spritz"],
+        "image": "https://picsum.photos/seed/spritz6/800/600"
+      },
+      {
+        "id": 40,
+        "category": "Bottle Service",
+        "name": "Veuve Clicquot Yellow Label",
+        "description": "The signature champagne of the house, known for its strength and silkiness.",
+        "price": 120000,
+        "badges": ["Popular"],
+        "image": "https://picsum.photos/seed/champagne/800/600"
+      },
+      {
+        "id": 41,
+        "category": "Vapes",
+        "name": "Azul Vape",
+        "description": "Premium Azul flavored disposable vape.",
+        "price": 65000,
+        "badges": ["Premium"],
+        "image": "https://i.postimg.cc/BnQhcJNN/TEQ-DIS10-2-300x300.webp"
+      },
+      {
+        "id": 42,
+        "category": "Vapes",
+        "name": "Grape Ice Vape",
+        "description": "Chilled grape flavored disposable vape.",
+        "price": 65000,
+        "badges": ["Cool"],
+        "image": "https://i.postimg.cc/C1jHp2J9/images.jpg"
+      },
+      {
+        "id": 43,
+        "category": "Vapes",
+        "name": "Strawberry Vape",
+        "description": "Sweet strawberry flavored disposable vape.",
+        "price": 65000,
+        "badges": ["Fruit"],
+        "image": "https://i.postimg.cc/C1jHp2J9/images.jpg"
+      },
+      {
+        "id": 44,
+        "category": "Vapes",
+        "name": "Passion Fruit Vape",
+        "description": "Exotic passion fruit flavored disposable vape.",
+        "price": 65000,
+        "badges": ["Tropical"],
+        "image": "https://i.postimg.cc/C1jHp2J9/images.jpg"
+      },
+      {
+        "id": 45,
+        "category": "Vapes",
+        "name": "Watermelon Vape",
+        "description": "Refreshing watermelon flavored disposable vape.",
+        "price": 65000,
+        "badges": ["Refreshing"],
+        "image": "https://i.postimg.cc/C1jHp2J9/images.jpg"
+      },
+      {
+        "id": 46,
+        "category": "Vapes",
+        "name": "Blueberry Vape",
+        "description": "Classic blueberry flavored disposable vape.",
+        "price": 65000,
+        "badges": ["Fruit"],
+        "image": "https://i.postimg.cc/C1jHp2J9/images.jpg"
+      },
+      {
+        "id": 47,
+        "category": "Vapes",
+        "name": "Peach Vape",
+        "description": "Juicy peach flavored disposable vape.",
+        "price": 65000,
+        "badges": ["Fruit"],
+        "image": "https://i.postimg.cc/C1jHp2J9/images.jpg"
+      },
+      {
+        "id": 48,
+        "category": "Vapes",
+        "name": "Regular Vape",
+        "description": "Standard disposable vape.",
+        "price": 25000,
+        "badges": ["Classic"],
+        "image": "https://i.postimg.cc/C1jHp2J9/images.jpg"
+      },
+      {
+        "id": 49,
+        "category": "Shisha Coal",
+        "name": "Blueberry",
+        "description": "Premium blueberry flavored shisha with traditional coal.",
+        "price": 45000,
+        "badges": ["Popular"],
+        "image": "https://i.postimg.cc/qqF2rGc3/Screenshot-20260329-062453.jpg"
+      },
+      {
+        "id": 50,
+        "category": "Shisha Coal",
+        "name": "Double Apple",
+        "description": "Classic double apple flavored shisha with traditional coal.",
+        "price": 45000,
+        "badges": ["Classic"],
+        "image": "https://i.postimg.cc/qqF2rGc3/Screenshot-20260329-062453.jpg"
+      },
+      {
+        "id": 51,
+        "category": "Shisha Coal",
+        "name": "Gum & Mint",
+        "description": "Refreshing gum and mint flavored shisha with traditional coal.",
+        "price": 45000,
+        "badges": ["Refreshing"],
+        "image": "https://i.postimg.cc/qqF2rGc3/Screenshot-20260329-062453.jpg"
+      },
+      {
+        "id": 52,
+        "category": "Shisha Coal",
+        "name": "Lemon & Mint",
+        "description": "Zesty lemon and mint flavored shisha with traditional coal.",
+        "price": 45000,
+        "badges": ["Zesty"],
+        "image": "https://i.postimg.cc/qqF2rGc3/Screenshot-20260329-062453.jpg"
+      },
+      {
+        "id": 53,
+        "category": "Shisha Coal",
+        "name": "Magic Love (tropical)",
+        "description": "Exotic tropical magic love flavored shisha with traditional coal.",
+        "price": 45000,
+        "badges": ["Tropical"],
+        "image": "https://i.postimg.cc/qqF2rGc3/Screenshot-20260329-062453.jpg"
+      },
+      {
+        "id": 54,
+        "category": "Shisha Coal",
+        "name": "Strawberry",
+        "description": "Sweet strawberry flavored shisha with traditional coal.",
+        "price": 45000,
+        "badges": ["Sweet"],
+        "image": "https://i.postimg.cc/qqF2rGc3/Screenshot-20260329-062453.jpg"
+      },
+      {
+        "id": 55,
+        "category": "Shisha Coal",
+        "name": "Watermelon",
+        "description": "Juicy watermelon flavored shisha with traditional coal.",
+        "price": 45000,
+        "badges": ["Fresh"],
+        "image": "https://i.postimg.cc/qqF2rGc3/Screenshot-20260329-062453.jpg"
+      },
+      {
+        "id": 56,
+        "category": "Shisha Electric",
+        "name": "Blueberry",
+        "description": "Premium blueberry flavored shisha with electric heating.",
+        "price": 55000,
+        "badges": ["Modern"],
+        "image": "https://i.postimg.cc/XNtgTVsG/Screenshot-20260329-062428.jpg"
+      },
+      {
+        "id": 57,
+        "category": "Shisha Electric",
+        "name": "Double Apple",
+        "description": "Classic double apple flavored shisha with electric heating.",
+        "price": 55000,
+        "badges": ["Classic"],
+        "image": "https://i.postimg.cc/XNtgTVsG/Screenshot-20260329-062428.jpg"
+      },
+      {
+        "id": 58,
+        "category": "Shisha Electric",
+        "name": "Gum & Mint",
+        "description": "Refreshing gum and mint flavored shisha with electric heating.",
+        "price": 55000,
+        "badges": ["Refreshing"],
+        "image": "https://i.postimg.cc/XNtgTVsG/Screenshot-20260329-062428.jpg"
+      },
+      {
+        "id": 59,
+        "category": "Shisha Electric",
+        "name": "Lemon & Mint",
+        "description": "Zesty lemon and mint flavored shisha with electric heating.",
+        "price": 55000,
+        "badges": ["Zesty"],
+        "image": "https://i.postimg.cc/XNtgTVsG/Screenshot-20260329-062428.jpg"
+      },
+      {
+        "id": 60,
+        "category": "Shisha Electric",
+        "name": "Magic Love (tropical)",
+        "description": "Exotic tropical magic love flavored shisha with electric heating.",
+        "price": 55000,
+        "badges": ["Tropical"],
+        "image": "https://i.postimg.cc/XNtgTVsG/Screenshot-20260329-062428.jpg"
+      },
+      {
+        "id": 61,
+        "category": "Shisha Electric",
+        "name": "Strawberry",
+        "description": "Sweet strawberry flavored shisha with electric heating.",
+        "price": 55000,
+        "badges": ["Sweet"],
+        "image": "https://i.postimg.cc/XNtgTVsG/Screenshot-20260329-062428.jpg"
+      },
+      {
+        "id": 62,
+        "category": "Shisha Electric",
+        "name": "Watermelon",
+        "description": "Juicy watermelon flavored shisha with electric heating.",
+        "price": 55000,
+        "badges": ["Fresh"],
+        "image": "https://i.postimg.cc/XNtgTVsG/Screenshot-20260329-062428.jpg"
+      },
+      {
+        "id": 63,
+        "category": "CIGAR",
+        "name": "CAO Pilon",
+        "description": "A premium cigar known for its rich and complex flavor profile.",
+        "price": 35000,
+        "badges": ["Premium"],
+        "image": "https://picsum.photos/seed/cigar1/800/600"
+      },
+      {
+        "id": 64,
+        "category": "CIGAR",
+        "name": "Balmoral XO Anejo",
+        "description": "An exquisite cigar with a smooth, aged wrapper and a refined taste.",
+        "price": 45000,
+        "badges": ["Aged"],
+        "image": "https://picsum.photos/seed/cigar2/800/600"
+      },
+      {
+        "id": 65,
+        "category": "CIGAR",
+        "name": "Davidoff",
+        "description": "A luxurious cigar from a renowned brand, offering an unparalleled smoking experience.",
+        "price": 60000,
+        "badges": ["Luxury"],
+        "image": "https://picsum.photos/seed/cigar3/800/600"
       }
     ]
   },
@@ -110,6 +762,13 @@
         "title": "Live with celebrities",
         "category": "Live",
         "thumbnail": "https://i.postimg.cc/VsHwgtDd/1774582691785.jpg",
+        "images": [
+          "https://i.postimg.cc/VsHwgtDd/1774582691785.jpg",
+          "https://i.postimg.cc/bN4P42t7/1774783898026.jpg",
+          "https://i.postimg.cc/qvcFQtX5/1774783935559.jpg",
+          "https://i.postimg.cc/z3ZdF5yt/1774784052838.jpg",
+          "https://i.postimg.cc/yY8h2DHh/Screenshot-20260329-122322.jpg"
+        ],
         "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
       },
       {
@@ -117,6 +776,10 @@
         "title": "Vibe with DJ",
         "category": "Live",
         "thumbnail": "https://i.postimg.cc/jjrtNrvM/1774582728417.jpg",
+        "images": [
+          "https://i.postimg.cc/jjrtNrvM/1774582728417.jpg",
+          "https://i.postimg.cc/kg4VvHSX/1774785674437.jpg"
+        ],
         "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
       },
       {
@@ -131,6 +794,11 @@
         "title": "Chef buffet",
         "category": "Live",
         "thumbnail": "https://i.postimg.cc/MpfrwM7f/Screenshot-20260327-054303.jpg",
+        "images": [
+          "https://i.postimg.cc/MpfrwM7f/Screenshot-20260327-054303.jpg",
+          "https://i.postimg.cc/LXS6wgr1/1774784073236.jpg",
+          "https://i.postimg.cc/xj4yD01S/1774785330844.jpg"
+        ],
         "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
       },
       {
@@ -177,8 +845,8 @@
   "footer": {
     "instagram": "lulubeachlagos",
     "instagramUrl": "https://www.instagram.com/lulubeachlagos?igsh=MXVpZmhqa2dic3JnMg==",
-    "address": "Five Cowries, Falomo, Ikoyi, Lagos (Formerly W Bar)",
-    "phone": "+234 800 LULU CLUB",
-    "email": "hello@lulubeachclub.com"
+    "address": "Ikoyi, Lagos | Falomo jetty Five cowries terminal",
+    "phone": "+234 908 006 6666",
+    "email": "info@lulubeachlagos.com"
   }
 }
